@@ -24,6 +24,9 @@ Rehné, Andreas Møller
 ## General info
 A computational fluid dynamics simulation evaluating velocity of laminar flow in a circular flow domain.
 
+<img src="sim_images/General_overview.jpg" width="505" height="400">
+
+
 ## Use cases
 This code has already been used in this article: [^1] <br />
 
