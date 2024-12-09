@@ -1,7 +1,7 @@
 # CFD-simulation-on-LF-system
 ![Topic][topic-image] ![Matlab Version][matlab-image] ![Uni.][AAU-image] ![LIC][LIC-image]
 > A computational fluid dynamics simulation on a laminar flow system
-Work in progress. Final result will be uploaded later
+
 
 ---
 <details>
@@ -21,7 +21,7 @@ Rehné, Andreas Møller
 * [Simulation results](#Simulation-results)
 * [Use cases](#Use-cases)
 
-
+Work in progress. Final result will be uploaded later
 ## General info
 A computational fluid dynamics simulation evaluating velocity of laminar flow in a circular flow domain.
 
